@@ -1,0 +1,14 @@
+Dataset reference: UCI Online Retail Dataset
+https://archive.ics.uci.edu/dataset/352/online+retail
+
+The uploaded Ecommerce_EDA_Outputs.zip supplied prepared positive-sales and returns/cancellations CSV extracts plus summary tables. The original UCI workbook and the original preprocessing script were not present in that ZIP. Do not represent the supplied extracts as the untouched raw dataset.
+
+Known reconciliation differences:
+- Cleaning summary cleaned master rows: 536,641
+- Positive-sales extract rows: 524,878
+- Returns/cancellations extract rows: 10,587
+- Combined supplied extract rows: 535,465 (1,176 fewer than cleaned master)
+- KPI summary distinct invoices: 19,960
+- Positive-sales extract distinct invoice identifiers: 19,962
+
+These differences are disclosed in the report and presentation. Validate against the original source before any audited financial use.

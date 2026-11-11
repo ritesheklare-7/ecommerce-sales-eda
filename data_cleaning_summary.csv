@@ -1,0 +1,8 @@
+Metric,Value
+Original rows,541909
+Exact duplicate rows removed,5268
+Rows in cleaned master data,536641
+Positive sales lines,524878
+Return/cancellation-related lines,10587
+Sales rows with missing CustomerID,132186
+Sales rows with missing Description,0
